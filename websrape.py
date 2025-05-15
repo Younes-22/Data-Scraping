@@ -118,4 +118,4 @@ else:
     print("No team data collected")
 
 # Don't forget to close the driver
-driver.quit()
+driver.quit() 
